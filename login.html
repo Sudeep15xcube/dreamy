@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<!-- <link href="css/style.css" rel="stylesheet" type="text/css" media="all" /> -->
+    <link href="css/login-form.css" rel="stylesheet" type="text/css" media="all" />
+
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="" crossorigin="anonymous" />
+
+    <link href="css/aos.css" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet"> 
+    
+    <!-- <link rel="stylesheet" type="text/css" href="slick/slick.css">
+    <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"> -->
+</head>
+<body>
+	<section id="login_form" data-aos="fade-left">
+		<div class="container" id="container">
+	      <div class="form-container sign-up-container">
+	        <form>
+	          <h1>Sign Up</h1>
+	          <div class="social-container">
+	            <a href="#" class="social"><i class="fab fa-instagram"></i></a>
+	            <a href="#" class="social"><i class="fab fa-google"></i></a>
+	            <a href="#" class="social"><i class="fab fa-facebook"></i></a>
+	          </div>
+	          <span>or use your email for registration</span>
+	          <input type="text" placeholder="Name" />
+	          <input type="email" placeholder="Email" />
+	          <input type="password" placeholder="Password" />
+	          <button class="mt-4" onclick="return false;">Sign Up</button>
+	        </form>
+	      </div>
+	      <div class="form-container sign-in-container">
+	        <form>
+	          <h1>Sign In</h1>
+	          <div class="social-container">
+	            <a href="#" class="social"><i class="fab fa-instagram"></i></a>
+	            <a href="#" class="social"><i class="fab fa-google"></i></a>
+	            <a href="#" class="social"><i class="fab fa-facebook"></i></a>
+	          </div>
+	          <span>or use your account</span>
+	          <input type="email" placeholder="Email" />
+	          <input type="password" placeholder="Password" />
+	          <a href="#">Forgot your password?</a>
+	          <button class="mt-4" onclick="return false;">Sign In</button>
+	        </form>
+	      </div>
+	      <div class="overlay-container">
+	        <div class="overlay">
+	          <div class="overlay-panel overlay-left">
+	          	<img src="./images/LOGO/Restaurant_Logo.svg">
+	            <h1>Welcome Back!</h1>
+	            <p>Please login with your personal info</p>
+	            <button class="ghost mt-4" id="signIn">Sign In</button>
+	          </div>
+	          <div class="overlay-panel overlay-right">
+	          	<img src="./images/LOGO/Restaurant_Logo.svg">
+	            <h1>Hello, Friend!</h1>
+	            <p>Enter your personal details and start your journey with us</p>
+	            <button class="ghost mt-4" id="signUp">Sign Up</button>
+	          </div>
+	        </div>
+	      </div>
+	    </div>
+	</section>
+</body>
+<script type="text/javascript">
+	const signUpButton = document.getElementById("signUp");
+	const signInButton = document.getElementById("signIn");
+	const container = document.getElementById("container");
+
+	signUpButton.addEventListener("click", () => {
+	  container.classList.add("right-panel-active");
+	});
+
+	signInButton.addEventListener("click", () => {
+	  container.classList.remove("right-panel-active");
+	});
+
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js" integrity="" crossorigin="anonymous"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+
+    <script src="js/aos.js"></script>
+    <script src="js/jquery.js"></script>
+   
+    <script>
+      AOS.init();
+    </script>
+</html>

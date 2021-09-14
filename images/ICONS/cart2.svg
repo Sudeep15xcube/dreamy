@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fas"
+   data-icon="shopping-basket"
+   class="svg-inline--fa fa-shopping-basket fa-w-18"
+   role="img"
+   viewBox="0 0 576 512"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="shopping-basket-solid.svg"
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect837"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1318"
+     inkscape:window-height="704"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.53710938"
+     inkscape:cx="222.09127"
+     inkscape:cy="286.24004"
+     inkscape:window-x="48"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="currentColor"
+     d="m 454.7479,232.83997 v 9.26378 c 0,7.67445 -6.2212,13.89565 -13.89566,13.89565 h -4.63188 L 421.1013,361.83105 c -1.95581,13.69128 -13.68143,23.86117 -27.51167,23.86117 H 182.41037 c -13.83024,0 -25.55586,-10.16989 -27.51225,-23.86117 L 139.77964,255.9994 h -4.63188 c -7.67446,0 -13.89566,-6.2212 -13.89566,-13.89565 v -9.26378 c 0,-7.67445 6.2212,-13.89566 13.89566,-13.89566 h 38.98948 l 61.8241,-85.00727 c 6.01856,-8.27486 17.60522,-10.10503 25.88124,-4.08648 8.27544,6.01856 10.10504,17.6058 4.08648,25.88125 l -45.9732,63.2125 h 136.08828 l -45.9732,-63.21308 c -6.01856,-8.27487 -4.18839,-19.86269 4.08706,-25.88125 8.27428,-6.01855 19.86268,-4.18896 25.88124,4.08649 l 61.82352,85.00784 h 38.98948 c 7.67446,0 13.89566,6.22121 13.89566,13.89566 z m -152.85224,101.9015 v -64.84641 c 0,-7.67445 -6.2212,-13.89566 -13.89566,-13.89566 -7.67446,0 -13.89566,6.22121 -13.89566,13.89566 v 64.84641 c 0,7.67445 6.2212,13.89566 13.89566,13.89566 7.67446,0 13.89566,-6.22121 13.89566,-13.89566 z m 64.8464,0 v -64.84641 c 0,-7.67445 -6.2212,-13.89566 -13.89565,-13.89566 -7.67446,0 -13.89566,6.22121 -13.89566,13.89566 v 64.84641 c 0,7.67445 6.2212,13.89566 13.89566,13.89566 7.67445,0 13.89565,-6.22121 13.89565,-13.89566 z m -129.69281,0 v -64.84641 c 0,-7.67445 -6.2212,-13.89566 -13.89566,-13.89566 -7.67445,0 -13.89565,6.22121 -13.89565,13.89566 v 64.84641 c 0,7.67445 6.2212,13.89566 13.89565,13.89566 7.67446,0 13.89566,-6.22121 13.89566,-13.89566 z"
+     id="path2"
+     style="stroke-width:0.578986;fill:#ffffff;fill-opacity:1" />
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:22.049;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 51.500701,251.69729 c -1.126448,61.91537 23.242302,123.9132 66.226559,168.49049 42.98426,44.5773 104.05465,71.18508 165.97003,72.31152 61.91537,1.12645 123.91319,-23.2423 168.49049,-66.22656 44.5773,-42.98426 71.18507,-104.05465 72.31152,-165.97002 C 525.62575,198.38735 501.257,136.38952 458.27274,91.812226 415.28848,47.234927 354.21809,20.627154 292.30272,19.500705 230.38734,18.374257 168.38952,42.743007 123.81222,85.727268 79.234923,128.71153 52.627149,189.78192 51.500701,251.69729 Z"
+     id="path835"
+     inkscape:path-effect="#path-effect837"
+     inkscape:original-d="M 51.500701,251.69729 C -106.16634,248.828 366.83393,257.43507 524.4993,260.30272 682.16467,263.17036 209.16774,254.5666 51.500701,251.69729 Z" />
+</svg>
